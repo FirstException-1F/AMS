@@ -72,7 +72,7 @@ function RegisterAmbulance() {
       location:location
     })
      
-    
+    alert("Added Successfully!")
     navigate('/');
   };
   
